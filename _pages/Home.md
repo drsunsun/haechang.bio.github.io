@@ -3,6 +3,11 @@ title: "Home"
 permalink: /
 layout: single
 author_profile: true
+
+image:
+  path: /images/JBioLabLogo.png
+  width: 1200
+  height: 630
 ---
 
 <img src="/images/JBioLabLogo.png" alt="JBioLab Logo" style="width:100%; height:auto;">
