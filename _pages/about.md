@@ -14,7 +14,7 @@ My current focus is integrating in silico design with wet-lab validation—espec
 - Translation-oriented platform building for biotech startups
 
 **여기에는 뭘 쓰면 좋을까요**
--블라블라... 뭐라고 쓰지 여기다가
+- 블라블라... 뭐라고 쓰지 여기다가
 - 밑에 칸을 넣어야
 - 인스타가 보이는데
 - 음.... 고민해보자
