@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<a class="btn btn--primary" href="/files/CV(HaechangJung)ver1.pdf" download>
+  Download CV (PDF)
+</a>
 
 {% include base_path %}
 
