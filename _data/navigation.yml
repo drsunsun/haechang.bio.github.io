@@ -19,16 +19,16 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Contact"
-    url: /contact/
 
   - title: "Publications"
     url: /publications/
     
+  - title: "CV"
+    url: /cv/
+
+  - title: "Contact"
+    url: /contact/
+
   # - title: "CV"
   #   url: /cv-json/
     
