@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "Welcome to the 'J Bio Lab' Hompage"
 author_profile: true
 redirect_from: 
