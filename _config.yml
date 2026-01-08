@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "HAECHANG BIO / INHA Univ."
+title                    : "HAECHANG BIO"
 title_separator          : "-"
 name                     : &name "Haechang Jung"
 description              : &description "Department of Biological Engineering, INHA University.<br>Nano-enabled Drug Delivery | In silico → Wet lab"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://drsunsun.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/haechangbio" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Haechang Jung"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Nano-enabled Drug Delivery | In silico → Wet lab"
+  location         : "Incheon, Korea"
+  employer         : "INHA University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "drsunsun@naer.com"<br>"drsuninha@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "d_r_sun"# Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
