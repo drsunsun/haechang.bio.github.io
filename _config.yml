@@ -26,9 +26,7 @@ author:
   avatar           : "haechang_profile.jpeg"
   name             : "Haechang Jung"
   pronouns         : ""# example: "she/her"  
-  bio:
-    - "Department of Biological Engineering, INHA University."
-    - "Nano-enabled Drug Delivery | In silico → Wet lab"
+  bio: 'Nano-enabled Drug Delivery<br/>In silico → Wet lab'
   location         : "Incheon, Korea"
   employer         : "INHA University"
   uri              : ""# URL
