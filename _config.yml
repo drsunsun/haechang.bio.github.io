@@ -23,12 +23,12 @@ repository               : "drsunsun/drsunsun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "haechang_profile.jpeg"
   name             : "Haechang Jung"
   pronouns         : ""# example: "she/her"  
-  bio: |
-    Department of Biological Engineering, INHA University.
-    Nano-enabled Drug Delivery | In silico → Wet lab
+  bio:
+    - "Department of Biological Engineering, INHA University."
+    - "Nano-enabled Drug Delivery | In silico → Wet lab"
   location         : "Incheon, Korea"
   employer         : "INHA University"
   uri              : ""# URL
