@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "HAECHANG BIO"
+title                    : "JBioLab Logo.png"
 title_separator          : "-"
 name                     : &name "Haechang Jung"
 description              : &description "Department of Biological Engineering, INHA University.<br>Nano-enabled Drug Delivery | In silico → Wet lab"   # Update this with a general description of your site, this is the default if not overridden by a page
