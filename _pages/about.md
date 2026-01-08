@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: archieve
 permalink: /about/
 title: "About"
 author_profile: true
