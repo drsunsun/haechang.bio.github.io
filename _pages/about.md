@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
-title: "HAECHANG BIO"
+permalink: /about/
+title: "About"
 author_profile: true
 ---
