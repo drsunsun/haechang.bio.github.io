@@ -144,7 +144,6 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /images/JBioLabLogo.png # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -238,7 +237,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-image: /images/JBioLabLogo.png
   # _posts
   - scope:
       path: ""
