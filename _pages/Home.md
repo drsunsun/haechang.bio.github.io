@@ -9,7 +9,7 @@ header:
   og_image: /images/JBioLabLogo.png
 ---
 
-<img src="/images/JBioLabLogo.png" alt="JBioLab Logo" style="width:100%; height:auto;">
+<img src="/images/JBioLabLogo.png" alt="JBioLabLogo" style="width:100%; height:auto;">
 
 **Welcome to the 'J Bio Lab' Hompage.**<br/>
 I am an undergraduate researcher at the Department of Biological Engineering, INHA University,
