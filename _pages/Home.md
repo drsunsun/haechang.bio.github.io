@@ -4,10 +4,6 @@ permalink: /
 layout: single
 author_profile: true
 
-header:
-  image: /images/JBioLabLogo.png
-  overlay_filter: 0.0
-
 image: /images/JBioLabLogo.png
 ---
 
