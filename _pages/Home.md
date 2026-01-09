@@ -3,7 +3,7 @@ title: "Home"
 permalink: /
 layout: single
 author_profile: true
-
+image: /images/JBioLabLogo.png
 image:
   path: /images/JBioLabLogo.png
   width: 1200
