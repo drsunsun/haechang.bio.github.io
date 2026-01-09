@@ -4,10 +4,9 @@ permalink: /
 layout: single
 author_profile: true
 
-image:
-  path: /images/JBioLabLogo.png
-  width: 1200
-  height: 630
+header:
+  image: /images/JBioLabLogo.png
+  og_image: /images/JBioLabLogo.png
 ---
 
 <img src="/images/JBioLabLogo.png" alt="JBioLab Logo" style="width:100%; height:auto;">
